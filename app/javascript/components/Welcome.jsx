@@ -7,7 +7,8 @@ export default () => (
       <div className="container secondary-color">
         <h1 className="display-4">Prairie Delights</h1>
         <p className="lead">
-          The best in homemade meals and delicacies from the Canadian prairies.
+          A delightful list of recipes for homemade meals and delicacies,
+          straight from the Canadian prairies.
         </p>
         <hr className="my-4" />
         <Link to="/recipes" className="btn btn-lg custom-button" role="button">
