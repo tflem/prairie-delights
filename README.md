@@ -3,7 +3,7 @@
 > This a simple recipe-tracking application, which features the following tools:
 
 * Ruby 2.6.5
-* Ruby on Rails 6.0.2
+* Ruby on Rails 6.0.2.2
 * HTML5 and Sass
 * PostgreSQL 11
 * CSS Framework: Bootstrap
